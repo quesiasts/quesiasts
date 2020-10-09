@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">
+<!--   <img alt="Ícone do projeto" title="Terminal" src=".github/" width="100px" /> -->
+   <img alt="Logo" src="">
+</h1>
+</p>
 
-<!--
-**quesiasts/quesiasts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Formação
+Graduanda em tecnologia de análise e desenvolvimento de sistemas
 
-Here are some ideas to get you started:
+### 🚀 Tecnologias Estudadas
+**Front-end:** HTML5, CSS3 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Em processo de estudo:** ReactJS, Angular
+
+**Back-end:** NodeJs, MongoDB, PostgreSQL
+
+**Linguagem de programação:** Javascript e Java
+
+### 📫 Contate-me 
+**Email:** quesiasts@gmail.com
+
+**Instagram:** @quesiacs
