@@ -9,7 +9,7 @@ Graduanda em tecnologia de análise e desenvolvimento de sistemas
 ### 🚀 Tecnologias Estudadas
 **Front-end:** HTML5, CSS3 
 
-**Em processo de estudo:** ReactJS, Angular
+**Em processo de estudo:** ReactJS, AngularJS
 
 **Back-end:** NodeJs, MongoDB, PostgreSQL
 
