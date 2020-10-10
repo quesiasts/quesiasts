@@ -17,6 +17,5 @@ Graduanda em tecnologia de análise e desenvolvimento de sistemas
 **Linguagem de programação:** Javascript e Java
 
 ### 📫 Contate-me 
-**Email:** quesiasts@gmail.com
-
-**Instagram:** @quesiacs
+[![Linkedin Badge](https://img.shields.io/badge/-Quesia Santos-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quesiasts/)](https://www.linkedin.com/in/quesiasts/) 
+[![Gmail Badge](https://img.shields.io/badge/-quesiasts@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quesiasts@gmail.com)](mailto:quesiasts@gmail.com)
