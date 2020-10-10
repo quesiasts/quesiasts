@@ -1,6 +1,6 @@
 <h1 align="center">
 <!--   <img alt="Ícone do projeto" title="Terminal" src=".github/" width="100px" /> -->
-   <img alt="Logo" src="">
+   <img alt="Logo" src="/">
 </h1>
 </p>
 
