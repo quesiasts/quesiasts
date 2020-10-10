@@ -1,6 +1,5 @@
 <h1 align="center">
-       <!--   <img alt="Ícone do projeto" title="Terminal" src=".github/" width="100px" /> -->
-Quésia Santos
+👩🏾‍💻 Quésia Santos 👩🏾‍💻
 </h1>
 </p>
 
