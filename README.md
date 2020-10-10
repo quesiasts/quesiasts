@@ -1,6 +1,6 @@
 <h1 align="center">
-<!--   <img alt="Ícone do projeto" title="Terminal" src=".github/" width="100px" /> -->
-       img alt="Logo" src="https://user-images.githubusercontent.com/43646372/95658214-1a526100-0aef-11eb-8c35-7a1377768de2.gif")
+       <!--   <img alt="Ícone do projeto" title="Terminal" src=".github/" width="100px" /> -->
+Quésia Santos
 </h1>
 </p>
 
