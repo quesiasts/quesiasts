@@ -38,7 +38,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <a align="center">
-
 **Tecnologias Utilizadas**
 
   [![quesiasts](https://github-readme-stats.vercel.app/api/top-langs/?username=quesiasts&hide=html&layout=compact&theme=dracula)](https://github.com/quesiasts/)
@@ -46,6 +45,9 @@
 
 <h3 align="center"> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
+<h5 align="center">
 [![Linkedin: Quésia](https://img.shields.io/badge/-quesiasts-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINKEDIN)
 [![Gmail Badge](https://img.shields.io/badge/-quesiasts@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quesiasts@gmail.com)](mailto:quesiasts@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@quesiacs-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/quesiacs/?hl=pt-br)](https://www.instagram.com/quesiacs/?hl=pt-br) 
+
+</h5>
