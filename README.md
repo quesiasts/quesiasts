@@ -7,11 +7,9 @@
 Graduanda em tecnologia de análise e desenvolvimento de sistemas
 
 ### 🚀 Tecnologias Estudadas
-**Front-end:** HTML5, CSS3 
 
-**Em processo de estudo:** Javascript e frameworks
+[![quesiasts](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/quesiasts/)
 
-**Back-end:** Python, PostgreSQL
 
 ### 📫 Contate-me 
 
