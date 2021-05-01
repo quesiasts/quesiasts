@@ -8,7 +8,7 @@ Graduanda em tecnologia de análise e desenvolvimento de sistemas
 
 ### 🚀 Tecnologias Estudadas
 
-[![quesiasts](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=default)](https://github.com/quesiasts/)
+[![quesiasts](https://github-readme-stats.vercel.app/api/top-langs/?username=quesiasts&hide=html&layout=compact&theme=default)](https://github.com/quesiasts/)
 
 
 ### 📫 Contate-me 
