@@ -20,7 +20,7 @@
   ![Postgresql](https://img.shields.io/badge/-Postgresql-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=aws)
+  ![Aws](https://img.shields.io/badge/-AWS-333333?style=flat&logo=aws)
 
 
 **Utilidades**
