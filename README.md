@@ -42,7 +42,7 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Quésia](https://img.shields.io/badge/-quesiasts-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINKEDIN)
+[![Linkedin: Quésia](https://img.shields.io/badge/-quesiasts-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quesiasts/)](LINKEDIN)
 [![Gmail Badge](https://img.shields.io/badge/-quesiasts@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quesiasts@gmail.com)](mailto:quesiasts@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@quesiacs-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/quesiacs/?hl=pt-br)](https://www.instagram.com/quesiacs/?hl=pt-br)
 
