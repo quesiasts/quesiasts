@@ -32,7 +32,7 @@
 **Tecnologias Utilizadas**
 
   [![quesiasts](https://github-readme-stats.vercel.app/api/top-langs/?username=quesiasts&hide=html&layout=compact&theme=dracula)](https://github.com/quesiasts/)
-  [![quesiasts](https://github-readme-stats.vercel.app/api?username=quesiasts&theme=dracula)](https://github.com/quesiasts/) 
+  [![quesiasts](https://github-readme-stats.vercel.app/api?username=quesiasts&theme=dracula)](https://github.com/quesiasts/)
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
