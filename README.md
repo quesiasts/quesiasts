@@ -1,15 +1,15 @@
 <h1 align="center">
-👩🏾‍ Quésia Santos 👩🏾
+👩🏾‍💻 Olá, me chamo Quésia Santos 
 </h1>
 
-<h3> 👩🏾‍💻 &nbsp;Sobre mim: </h3>
+<h3> 👩🏾 &nbsp;Sobre mim: </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na Unicesumar.
 - 💼 &nbsp; Trabalhando como **Desenvolvedora Jr.** no Olist.
 - 🌱 &nbsp; Aprendendo mais sobre **Python, Django e Postgres**.
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp;Minhas Skills: </h3>
 
 **Aplicações e Dados**
 
@@ -42,7 +42,7 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Quésia](https://img.shields.io/badge/-quesiasts-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quesiasts/)](LINKEDIN)
+[![Linkedin: Quésia](https://img.shields.io/badge/-quesiasts-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quesiasts/)](https://www.linkedin.com/in/quesiasts/)
 [![Gmail Badge](https://img.shields.io/badge/-quesiasts@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quesiasts@gmail.com)](mailto:quesiasts@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@quesiacs-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/quesiacs/?hl=pt-br)](https://www.instagram.com/quesiacs/?hl=pt-br)
 
