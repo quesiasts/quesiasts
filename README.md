@@ -11,7 +11,7 @@
 
 <h3> :rocket: &nbsp;Minhas Skills: </h3>
 
-**Aplicações e Dados**
+**Tecnologias Utilizadas**
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
@@ -29,12 +29,11 @@
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-**Tecnologias Utilizadas**
-
-  [![quesiasts](https://github-readme-stats.vercel.app/api/top-langs/?username=quesiasts&hide=html&layout=compact&theme=dracula)](https://github.com/quesiasts/) [![quesiasts](https://github-readme-stats.vercel.app/api?username=quesiasts&theme=dracula)](https://github.com/quesiasts/)
-
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Quésia](https://img.shields.io/badge/-quesiasts-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/quesiasts/)](https://www.linkedin.com/in/quesiasts/)
 [![Gmail Badge](https://img.shields.io/badge/-quesiasts@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quesiasts@gmail.com)](mailto:quesiasts@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@quesiacs-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/quesiacs/?hl=pt-br)](https://www.instagram.com/quesiacs/?hl=pt-br)
+
+
+[![quesiasts](https://github-readme-stats.vercel.app/api/top-langs/?username=quesiasts&hide=html&layout=compact&theme=dracula)](https://github.com/quesiasts/) [![quesiasts](https://github-readme-stats.vercel.app/api?username=quesiasts&theme=dracula)](https://github.com/quesiasts/)
