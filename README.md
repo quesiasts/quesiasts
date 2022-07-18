@@ -5,7 +5,7 @@
 <h3> 👩🏾‍💻 &nbsp;Sobre mim: </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Análise e Desenvolvimento de Sistemas** na Unicesumar.
+- 🎓 &nbsp; Formada em **Análise e Desenvolvimento de Sistemas** na Unicesumar.
 - 💼 &nbsp; Trabalhando como **Desenvolvedora Backend** no Olist.
 - 🌱 &nbsp; Aprendendo mais sobre **Python, Golang e Postgres**.
 
