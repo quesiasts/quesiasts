@@ -36,6 +36,3 @@
 [![Gmail Badge](https://img.shields.io/badge/-quesiasts@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quesiasts@gmail.com)](mailto:quesiasts@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@quesiacs-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/quesiacs/?hl=pt-br)](https://www.instagram.com/quesiacs/?hl=pt-br)
 
-<h3> 💻 &nbsp; Linguagens mais utilizadas: </h3> 
-
-[![quesiasts](https://github-readme-stats.vercel.app/api/top-langs/?username=quesiasts&hide=html&layout=compact&theme=dracula)](https://github.com/quesiasts/)
