@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Formada em **Análise e Desenvolvimento de Sistemas** na Unicesumar.
-- 💼 &nbsp; Trabalhando como **Desenvolvedora Backend** no Olist.
+- 💼 &nbsp; Trabalhando como **Desenvolvedora Backend** no Itaú.
 - 🌱 &nbsp; Aprendendo mais sobre **Python, Golang e Postgres**.
 
 <h3> :rocket: &nbsp;Minhas Skills: </h3>
