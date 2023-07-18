@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Formada em **Análise e Desenvolvimento de Sistemas** na Unicesumar.
 - 💼 &nbsp; Trabalhando como **Desenvolvedora Backend** no Itaú.
-- 🌱 &nbsp; Aprendendo mais sobre **Python, Golang e Postgres**.
+- 🌱 &nbsp; Aprendendo mais sobre **Python, Java e AWS Services**.
 
 <h3> :rocket: &nbsp;Minhas Skills: </h3>
 
